@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Return Strings Exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArraysAndLists.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayChallenge.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NullabilityPractice.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SeatsInTheater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SeatsInTheater.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.ArraysAndListsKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.ArrayChallengeKt">
     <configuration name="AreaOrPerimeterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaOrPerimeterKt" />
+      <module name="KotlinPracticeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayChallengeKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayChallengeKt" />
         <item itemvalue="Kotlin.ArraysAndListsKt" />
         <item itemvalue="Kotlin.AreaOrPerimeterKt" />
       </list>
