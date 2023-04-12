@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Return Strings Exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayChallenge.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NullabilityPractice.kt" afterDir="false" />
+    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Seats in Theater Exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SeatsInTheater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SeatsInTheater.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,13 +104,36 @@
       <option name="project" value="LOCAL" />
       <updated>1680765049973</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Seats in Theater Exercise">
+      <created>1681042866613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681042866613</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The Feast of Many Beasts Exercise" />
     <MESSAGE value="Expression matters Exercise" />
     <MESSAGE value="Return Strings Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Return Strings Exercise" />
+    <MESSAGE value="Seats in Theater Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seats in Theater Exercise" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/ArrayChallenge.kt</url>
+          <line>18</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
