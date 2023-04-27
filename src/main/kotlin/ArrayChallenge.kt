@@ -18,14 +18,18 @@ minimum value.
 
 fun main() {
 
-    fun maxNum (numbers: Array<Int>) = numbers.max()
+    /* fun maxNum (numbers: Array<Int>) = numbers.max()
     fun minNum (numbers: Array<Int>) = numbers.min()
 
     val max = maxNum(arrayOf(1, 5, 9, 25, 6, 8890))
     val min = minNum(arrayOf(45, 5, 56, 3, 1, -8))
 
     println("The Max value is: $max")
-    println("The Min value is: $min")
+    println("The Min value is: $min") */
+
+    fun digitize(n:Long)= n.toString().split("").filter { it.isNotEmpty() }.map { it.toInt() }.reversed().toIntArray()
+
+    print(digitize(35231))
 
 
 }
