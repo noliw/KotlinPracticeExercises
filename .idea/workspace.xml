@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Seats in Theater Exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions1.kt" afterDir="false" />
+    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ArrayChallenge.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayChallenge.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/functions1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681285246527</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="functions">
+      <created>1682594496680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682594496681</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -136,7 +142,8 @@
     <MESSAGE value="Expression matters Exercise" />
     <MESSAGE value="Return Strings Exercise" />
     <MESSAGE value="Seats in Theater Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seats in Theater Exercise" />
+    <MESSAGE value="functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
