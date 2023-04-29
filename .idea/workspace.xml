@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="oak constructor" />
+    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="oak constructor">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/InheritanceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/Motorcycle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/NewCar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/Vehicle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Oak/MyThirdCar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/MyThirdCar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Oak/ObjectClassConstructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/ObjectClassConstructor.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -26,7 +34,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NlmgZE9mhC2UytftXnkFT9KJtN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,16 +52,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ObjectClassConstructorKt">
+  <component name="RunManager" selected="Kotlin.InheritanceTestKt">
     <configuration name="ArrayChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayChallengeKt" />
-      <module name="KotlinPracticeExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysAndListsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysAndListsKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InheritanceTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oak.InheritanceTestKt" />
+      <module name="KotlinPracticeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjectClassConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oak.ObjectClassConstructorKt" />
       <module name="KotlinPracticeExercises" />
@@ -80,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceTestKt" />
         <item itemvalue="Kotlin.ObjectClassConstructorKt" />
         <item itemvalue="Kotlin.Day7ClassesKt" />
         <item itemvalue="Kotlin.Functions1Kt" />
         <item itemvalue="Kotlin.ArrayChallengeKt" />
-        <item itemvalue="Kotlin.ArraysAndListsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682760097190</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="oak constructor">
+      <created>1682763713791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682763713791</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

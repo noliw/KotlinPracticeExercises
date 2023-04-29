@@ -25,6 +25,6 @@ fun main(args: Array<String>) {
 // using secondary constructors
     var myThirdCar = MyThirdCar(name = "Jaguar", model = 2090)
     myThirdCar.name = "Nissan"
-    myThirdCar.model = 2018
-    println("My third car's name is ${myThirdCar.name} and its model is ${myThirdCar.model}")
+     // set operation
+    println("My third car's name is ${myThirdCar.name} and its model is ${myThirdCar.model}") //get operation
 }
