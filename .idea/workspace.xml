@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="oak constructor">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/InheritanceTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/Motorcycle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/NewCar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/Vehicle.kt" afterDir="false" />
+    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="inheritance">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Meta/Conditions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Oak/MyThirdCar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/MyThirdCar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Oak/ObjectClassConstructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Oak/ObjectClassConstructor.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +47,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InheritanceTestKt">
-    <configuration name="ArrayChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayChallengeKt" />
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
+  <component name="RunManager" selected="Kotlin.ConditionsKt">
+    <configuration name="ConditionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Meta.ConditionsKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ConditionsKt" />
         <item itemvalue="Kotlin.InheritanceTestKt" />
         <item itemvalue="Kotlin.ObjectClassConstructorKt" />
         <item itemvalue="Kotlin.Day7ClassesKt" />
         <item itemvalue="Kotlin.Functions1Kt" />
-        <item itemvalue="Kotlin.ArrayChallengeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682763713791</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="inheritance">
+      <created>1682771156039</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682771156039</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,7 +187,8 @@
     <MESSAGE value="Seats in Theater Exercise" />
     <MESSAGE value="functions" />
     <MESSAGE value="oak constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="oak constructor" />
+    <MESSAGE value="inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
