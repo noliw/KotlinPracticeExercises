@@ -82,7 +82,7 @@
       </method>
     </configuration>
     <configuration name="UdemyCompleteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UdemyCompleteKt" />
+      <option name="MAIN_CLASS_NAME" value="CompleteUdemy.UdemyCompleteKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
