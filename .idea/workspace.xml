@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="when">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Meta/Loops.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Meta/NestedLoops.kt" afterDir="false" />
+    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="functions">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UdemyComplete.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Kotlin.LoopsKt">
+  <component name="RunManager" selected="Kotlin.UdemyCompleteKt">
     <configuration name="ConditionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Meta.ConditionsKt" />
       <module name="KotlinPracticeExercises" />
@@ -61,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oak.InheritanceTestKt" />
+    <configuration name="FunctsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Meta.FunctsKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectClassConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oak.ObjectClassConstructorKt" />
+    <configuration name="UdemyCompleteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdemyCompleteKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.UdemyCompleteKt" />
+        <item itemvalue="Kotlin.FunctsKt" />
         <item itemvalue="Kotlin.LoopsKt" />
         <item itemvalue="Kotlin.NestedLoopsKt" />
         <item itemvalue="Kotlin.ConditionsKt" />
-        <item itemvalue="Kotlin.InheritanceTestKt" />
-        <item itemvalue="Kotlin.ObjectClassConstructorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684395555491</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="conds">
+      <created>1684402080880</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684402080880</updated>
+    </task>
+    <task id="LOCAL-00013" summary="functions">
+      <created>1684411681413</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684411681413</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,11 +206,12 @@
     <MESSAGE value="Expression matters Exercise" />
     <MESSAGE value="Return Strings Exercise" />
     <MESSAGE value="Seats in Theater Exercise" />
-    <MESSAGE value="functions" />
     <MESSAGE value="oak constructor" />
     <MESSAGE value="inheritance" />
     <MESSAGE value="when" />
-    <option name="LAST_COMMIT_MESSAGE" value="when" />
+    <MESSAGE value="conds" />
+    <MESSAGE value="functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -210,6 +224,14 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/UdemyComplete.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
