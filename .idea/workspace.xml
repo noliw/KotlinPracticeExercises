@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="inheritance">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Meta/Conditions.kt" afterDir="false" />
+    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="when">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Meta/Loops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Meta/NestedLoops.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Kotlin.ConditionsKt">
+  <component name="RunManager" selected="Kotlin.LoopsKt">
     <configuration name="ConditionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Meta.ConditionsKt" />
       <module name="KotlinPracticeExercises" />
@@ -60,22 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day7ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day7ClassesKt" />
-      <module name="KotlinPracticeExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Functions1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions1Kt" />
-      <module name="KotlinPracticeExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InheritanceTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oak.InheritanceTestKt" />
+      <module name="KotlinPracticeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Meta.LoopsKt" />
+      <module name="KotlinPracticeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Meta.NestedLoopsKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LoopsKt" />
+        <item itemvalue="Kotlin.NestedLoopsKt" />
         <item itemvalue="Kotlin.ConditionsKt" />
         <item itemvalue="Kotlin.InheritanceTestKt" />
         <item itemvalue="Kotlin.ObjectClassConstructorKt" />
-        <item itemvalue="Kotlin.Day7ClassesKt" />
-        <item itemvalue="Kotlin.Functions1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682771156039</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="when">
+      <created>1684395555491</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684395555491</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,7 +196,8 @@
     <MESSAGE value="functions" />
     <MESSAGE value="oak constructor" />
     <MESSAGE value="inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
+    <MESSAGE value="when" />
+    <option name="LAST_COMMIT_MESSAGE" value="when" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
