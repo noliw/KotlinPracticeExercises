@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="functions">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UdemyComplete.kt" afterDir="false" />
+    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Complete Udemy Classes">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Meta/Classes1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +53,21 @@
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Kotlin.UdemyCompleteKt">
-    <configuration name="ConditionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Meta.ConditionsKt" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\noliw\OneDrive\Desktop\gashe\KotlinPracticeExercises\src\main\kotlin\CompleteUdemy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Classes1Kt">
+    <configuration name="Classes1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Meta.Classes1Kt" />
+      <module name="KotlinPracticeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompleteUdemy.ClassesKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,20 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UdemyCompleteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompleteUdemy.UdemyCompleteKt" />
-      <module name="KotlinPracticeExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.UdemyCompleteKt" />
+        <item itemvalue="Kotlin.Classes1Kt" />
+        <item itemvalue="Kotlin.ClassesKt" />
         <item itemvalue="Kotlin.FunctsKt" />
         <item itemvalue="Kotlin.LoopsKt" />
         <item itemvalue="Kotlin.NestedLoopsKt" />
-        <item itemvalue="Kotlin.ConditionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684411681413</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="functions">
+      <created>1684414512177</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684414512177</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Complete Udemy Classes">
+      <created>1684414613672</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684414613672</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,7 +231,8 @@
     <MESSAGE value="when" />
     <MESSAGE value="conds" />
     <MESSAGE value="functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="functions" />
+    <MESSAGE value="Complete Udemy Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Udemy Classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,8 +247,8 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/UdemyComplete.kt</url>
-          <properties method="main">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/CompleteUdemy/Classes.kt</url>
+          <properties>
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
