@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Complete Udemy Classes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Meta/Classes1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/classes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/CompleteUdemy/Classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/completeUdemy/Classes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <recent name="C:\Users\noliw\OneDrive\Desktop\gashe\KotlinPracticeExercises\src\main\kotlin\CompleteUdemy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Classes1Kt">
+  <component name="RunManager" selected="Kotlin.ClassesKt (1)">
     <configuration name="Classes1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Meta.Classes1Kt" />
       <module name="KotlinPracticeExercises" />
@@ -66,8 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClassesKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="androidKotlin12.ClassesKt" />
+      <module name="KotlinPracticeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompleteUdemy.ClassesKt" />
+      <option name="MAIN_CLASS_NAME" value="completeUdemy.ClassesKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,20 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Meta.NestedLoopsKt" />
-      <module name="KotlinPracticeExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Classes1Kt" />
+        <item itemvalue="Kotlin.ClassesKt (1)" />
         <item itemvalue="Kotlin.ClassesKt" />
+        <item itemvalue="Kotlin.Classes1Kt" />
         <item itemvalue="Kotlin.FunctsKt" />
         <item itemvalue="Kotlin.LoopsKt" />
-        <item itemvalue="Kotlin.NestedLoopsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684414613672</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Complete Udemy Classes">
+      <created>1684480534996</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1684480534996</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,7 +254,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/CompleteUdemy/Classes.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/completeUdemy/Classes.kt</url>
           <properties>
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
