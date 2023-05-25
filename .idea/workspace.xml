@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Complete Udemy Classes">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/classes.kt" afterDir="false" />
+    <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Android 12 classes">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/Inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/classesExercise.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/completeUdemy/Inheritance1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/completeUdemy/InitBlocks.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/CompleteUdemy/Classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/completeUdemy/Classes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +60,9 @@
       <recent name="C:\Users\noliw\OneDrive\Desktop\gashe\KotlinPracticeExercises\src\main\kotlin\CompleteUdemy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ClassesKt (1)">
-    <configuration name="Classes1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Meta.Classes1Kt" />
+  <component name="RunManager" selected="Kotlin.Inheritance1Kt">
+    <configuration name="ClassesExerciseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="androidKotlin12.ClassesExerciseKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,15 +82,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Meta.FunctsKt" />
+    <configuration name="Inheritance1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="completeUdemy.Inheritance1Kt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Meta.LoopsKt" />
+    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="androidKotlin12.InheritanceKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Inheritance1Kt" />
+        <item itemvalue="Kotlin.InheritanceKt" />
+        <item itemvalue="Kotlin.ClassesExerciseKt" />
         <item itemvalue="Kotlin.ClassesKt (1)" />
         <item itemvalue="Kotlin.ClassesKt" />
-        <item itemvalue="Kotlin.Classes1Kt" />
-        <item itemvalue="Kotlin.FunctsKt" />
-        <item itemvalue="Kotlin.LoopsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684480534996</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Android 12 classes">
+      <created>1684483469804</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1684483469804</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,7 +248,8 @@
     <MESSAGE value="conds" />
     <MESSAGE value="functions" />
     <MESSAGE value="Complete Udemy Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Udemy Classes" />
+    <MESSAGE value="Android 12 classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Android 12 classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
