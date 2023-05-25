@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Android 12 classes">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/Inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/classesExercise.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/completeUdemy/Inheritance1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/completeUdemy/InitBlocks.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/Inheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/Inheritance.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684483469804</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Android 12 classes">
+      <created>1685000490603</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685000490603</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

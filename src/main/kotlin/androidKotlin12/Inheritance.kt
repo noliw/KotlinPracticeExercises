@@ -6,16 +6,25 @@ import java.time.temporal.TemporalAmount
 // class is called Sub Class or child class
 // the class whose features are inherited is called the super class or parent class
 
+interface Drivable {
+    open val maxSpeed: Double
+    fun drive(): String
+    fun brake(){
+        println("The drivable is braking")
+    }
+}
 
 
 
 // Super/parent of the ElectricCar Class
-open class Car(val name: String, val brand: String) {
+open class Car(override val maxSpeed: Double, val name: String, val brand: String): Drivable {
     var range = 0.0
 
     fun extendReange(amount: Double){
         if(amount > 0) range += amount
     }
+
+    override fun drive(): String  = "driving the interface drive"
 
     fun drive(distance: Double){
         println("Drove for $distance KM")
