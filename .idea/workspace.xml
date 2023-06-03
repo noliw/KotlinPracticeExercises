@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Android 12 classes">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Meta/ExercisePracticeHandlingNullability.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/Nullability.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/completeUdemy/Interface.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/Inheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/Inheritance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/Inheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/classes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +61,7 @@
       <recent name="C:\Users\noliw\OneDrive\Desktop\gashe\KotlinPracticeExercises\src\main\kotlin\CompleteUdemy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Inheritance1Kt">
+  <component name="RunManager" selected="Kotlin.ExercisePracticeHandlingNullabilityKt">
     <configuration name="ClassesExerciseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="androidKotlin12.ClassesExerciseKt" />
       <module name="KotlinPracticeExercises" />
@@ -72,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completeUdemy.ClassesKt" />
+    <configuration name="ExercisePracticeHandlingNullabilityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Meta.ExercisePracticeHandlingNullabilityKt" />
       <module name="KotlinPracticeExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExercisePracticeHandlingNullabilityKt" />
+        <item itemvalue="Kotlin.ClassesKt (1)" />
         <item itemvalue="Kotlin.Inheritance1Kt" />
         <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.ClassesExerciseKt" />
-        <item itemvalue="Kotlin.ClassesKt (1)" />
-        <item itemvalue="Kotlin.ClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685000490603</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Android 12 classes">
+      <created>1685002108878</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685002108878</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

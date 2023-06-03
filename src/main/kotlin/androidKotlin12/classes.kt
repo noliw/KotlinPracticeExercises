@@ -1,13 +1,9 @@
 package androidKotlin12
 
-fun main() {
-    var nola = Person("noli", "Workineh")
-    var john = Person()
-}
+data class Value(val value: Int)
 
-class Person(firstName: String = "John", lastName: String = "Doe") {
-    //Initializer Block
-    init {
-        println("Initialized a new person with firstName = $firstName & last name = $lastName")
-    }
+fun main() {
+    val value1 = Value(42)
+    val value2 = Value(42)
+    println(value1 == value2)
 }
