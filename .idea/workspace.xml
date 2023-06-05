@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9af19b-6433-4ad7-8914-8cc0a05151d0" name="Changes" comment="Android 12 classes">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/completeUdemy/EnumClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/androidKotlin12/Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/completeUdemy/AbstractClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Oak/InheritanceTest.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,14 @@
       <recent name="C:\Users\noliw\OneDrive\Desktop\gashe\KotlinPracticeExercises\src\main\kotlin\CompleteUdemy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.EnumClassesKt">
+  <component name="RunManager" selected="Kotlin.ArraysKt">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="androidKotlin12.ArraysKt" />
+      <module name="KotlinPracticeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClassesKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="androidKotlin12.ClassesKt" />
       <module name="KotlinPracticeExercises" />
@@ -86,20 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="androidKotlin12.InheritanceKt" />
-      <module name="KotlinPracticeExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.EnumClassesKt" />
         <item itemvalue="Kotlin.ExercisePracticeHandlingNullabilityKt" />
         <item itemvalue="Kotlin.ClassesKt (1)" />
         <item itemvalue="Kotlin.Inheritance1Kt" />
-        <item itemvalue="Kotlin.InheritanceKt" />
       </list>
     </recent_temporary>
   </component>
